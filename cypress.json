@@ -1,0 +1,4 @@
+{
+    "baseUrl" : "http://automationpractice.com/index.php",
+    "ignoreTestFiles" : ["**/1-getting-started/*", "**/2-advanced-examples/*"]
+}
